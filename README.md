@@ -46,3 +46,14 @@ ez-image key=value arg1 "phrase 1" | list-item 1 | list-item 2
 ##
 
 `.mcol`
+
+##
+```
+.class #id :style-string key=value
+```
+
+##
+
+```
+.class #id :style-string key=value
+```
