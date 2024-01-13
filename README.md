@@ -1,4 +1,4 @@
-# syntax-testing
+# ezsite syntax testing
 
 `.class #id :style-string`
 
